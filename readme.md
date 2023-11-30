@@ -4,3 +4,4 @@ create virtualenv :
 to run dev (reload on save) : 
 - source env/bin/activate 
 - uvicorn server:app --reload
+
